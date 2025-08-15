@@ -122,5 +122,5 @@ class LennardJones_Potential():
 
 
 M = PotentialToMotion(iterations=10000, N=200, a=1.0, b=2.0, T=37.0, step_size = 0.3)
-plot_ParticleLocations(100000, M, 200)
+plot_ParticleLocations(10000, M, 200)
 
