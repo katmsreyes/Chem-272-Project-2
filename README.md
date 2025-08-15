@@ -9,3 +9,5 @@ Instructions for navigating through the repository:
 2. C++ code: Download and run "Sutherland272Project2c++.cpp" on VS Code. The C++ code is meant to run the simulation of 200 particles over 10,000 iterations, with one particle moving per iteration.
       
 3. Matplotlibcpp.h contains the parameters necessary to generate plots for the C++ code simulation. This must be downloaded in order for the plots to run.
+
+4. To read the report, download the file titled "_Chem 272_ Project 2.pdf"
